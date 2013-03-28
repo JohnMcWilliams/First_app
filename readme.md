@@ -1,1 +1,1 @@
-Ruby on Rails Tutorial: First Application
+Ruby on Rails Tutorial: first application
